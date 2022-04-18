@@ -5,12 +5,13 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev" : "npx parcel src/index.pug"
+    "dev": "npx parcel src/index.pug"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@parcel/transformer-pug": "^2.4.1",
     "parcel": "^2.4.1"
   },
   "dependencies": {
