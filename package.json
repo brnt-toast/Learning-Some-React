@@ -1,0 +1,21 @@
+{
+  "name": "learning-some-react",
+  "version": "1.0.0",
+  "description": "* Parcelv2 * React & ReactDOM  * Pug * Sass",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "parcel": "^2.4.1"
+  },
+  "dependencies": {
+    "pug": "^3.0.2",
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0",
+    "sass": "^1.50.0"
+  }
+}
