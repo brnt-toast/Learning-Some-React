@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "dev" : "npx src/index.pug"
+    "dev" : "npx parcel src/index.pug"
   },
   "keywords": [],
   "author": "",
