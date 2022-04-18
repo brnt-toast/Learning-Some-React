@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
+    "clean" : "rm -rf .parcel-cache dist/",
     "dev": "npx parcel src/index.pug"
   },
   "keywords": [],
@@ -18,6 +19,7 @@
     "pug": "^3.0.2",
     "react": "^18.0.0",
     "react-dom": "^18.0.0",
+    "react-router-dom": "^6.3.0",
     "sass": "^1.50.0"
   }
 }
